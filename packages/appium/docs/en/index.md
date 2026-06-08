@@ -1,9 +1,9 @@
 ---
-hide:
-  - navigation
+hidepanesj874-del:patch-1
+
   - toc
 
-title: Welcome
+title: Welcome I
 ---
 <style>
   .md-typeset h1,
